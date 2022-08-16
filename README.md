@@ -47,4 +47,4 @@ The following hidden code cell ensures that the Colab will run on TensorFlow 2.X
 * ```plot_the_loss_curve```, function plots loss vs. epochs for both the training set and the validation set.
 
 ## Document
-[Copyright 2020 Google LLC](https://colab.research.google.com/github/google/eng-edu/blob/main/ml/cc/exercises/validation_and_test_sets.ipynb?utm_source=mlcc&utm_campaign=colab-external&utm_medium=referral&utm_content=validation_tf2-colab&hl=en#scrollTo=8gRu4Ri0D8tH)
+Google LLC 2020
